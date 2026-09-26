@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/mi-contador/'
+  base: '/Practica-3---Contador-Vue/'
 })
